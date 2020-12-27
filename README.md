@@ -10,3 +10,4 @@ They have recorded the data of the data about the seller and the car.
 #Price
 
 Storm Motors wishes to devlop an algorithm to  predict the price of the cars based on various attributes associated with the car.
+This project is developed when learning the course "Python for Data Science" by NPTEL.
